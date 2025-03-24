@@ -3,7 +3,8 @@
 Hi! I'm Luna Z, a student in the Framework-Based Software Design and Development course. 
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
-![My Image](https://github.com/Framework-Based-Software/icebreaking-lunarun/blob/profile-upload_L_20250324/img.jpg)  <!-- Link to the uploaded image -->
+<img src="https://github.com/Framework-Based-Software/icebreaking-lunarun/blob/profile-upload_L_20250324/image.jpg" width="200px">
+![My Image](https://github.com/Framework-Based-Software/icebreaking-lunarun/blob/profile-upload_L_20250324/image.jpg) {width=50px height=30px} <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
